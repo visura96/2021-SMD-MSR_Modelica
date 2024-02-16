@@ -1778,6 +1778,4 @@ package SMD_MSR_Modelica
     //Maximum resident time
   end Constants;
   annotation(
-    Documentation(info = "<html><head></head><body>SMD-MSR_ModelicaV1</body></html>"),
-    uses(Modelica(version = "4.0.0")));
 end SMD_MSR_Modelica;
